@@ -6,12 +6,12 @@
   "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
   "created_at": "2016-03-04T14:09:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-22T16:32:08.776000+00:00", 
+  "modified_at": "2017-02-24T14:30:47.123554+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "001d93f376d3426b9e372d2347a9fd89", 
   "published": null, 
-  "position": 13, 
+  "position": 31, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hiv-same-thing-aids", 
   "uuid": "5d59e55d69b14d82ae1aa2ebe5a66840"
